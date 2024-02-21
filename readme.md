@@ -39,15 +39,6 @@ regex for advanced string processing
 serde for data serialization/deserialization
 rand for random number generation
 Choose a crate that aligns with your project's goals.
-Integration Time:
 
-In the relevant module, seamlessly integrate the chosen crate's functions:
-Add the crate as a dependency in your Cargo.toml file.
-Use the crate's functions alongside your own within your modules.
-Ensure proper API usage and error handling.
-Bonus Round: Publish Your Creation (Optional)
-
-
-If you're confident, prepare your library for the world! Follow the official Rust docs guide on publishing crates to crates.io
-Double-check license compatibility, documentation clarity, and versioning practices.
+### Bonus Round: Reuse your publish crate in another new Project. 
 
