@@ -29,7 +29,7 @@ Data Wrangling (data_processing):
 ### Show your data mastery:
 sort_data(data: &mut Vec<T>, field: &str) -> Result<(), String>: Sorts a list based on a specified field (replace T with your data type).
 filter_data(data: &[T], predicate: fn(T) -> bool) -> Vec<T>: Filters data based on a custom condition you define.
-Explore implementing algorithms like quick sort, merge sort, and different filtering criteria( bonues) 
+
 
 
 ### Find Your Helper:
